@@ -1,6 +1,6 @@
 ## I'm Nick Swinford.
 
-I'm a self-taught web developer. I started web development as a Joomla Integrator, but when I became frustrated with the available components for Joomla, I decided to learn to write my own. After learning enough PHP and HTML to be dangerous, I moved on to CSS, JavaScript, and eventually front-end frameworks like Ember.js and React. 
+I'm a self-taught web developer. I started web development as a Joomla Integrator, but when available components for Joomla wouldn't suffice, I decided to learn to write my own. After learning enough PHP and HTML to be dangerous, I moved on to CSS, JavaScript, and eventually front-end frameworks like Ember.js and React. 
 
 I've worked with jQuery, Ember.js, React, React Native, Joomla and Laravel. Constantly learning new technologies and deepening my understanding of languages.
 
