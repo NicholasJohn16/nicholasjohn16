@@ -16,8 +16,8 @@ I'm a self-taught web developer. I started web development as a Joomla Integrato
 ## Contact Me
 
 * ✉️ [nicholasjohn16@gmail.com](mailto:nicholasjohn16@gmail.com)
-
-
+* 🌐 [nicholasjohn16.com](https://nicholasjohn16.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/nicholasjohn16/)
 
 <!--
 **NicholasJohn16/nicholasjohn16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
